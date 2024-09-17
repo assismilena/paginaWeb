@@ -1,0 +1,24 @@
+body{
+    background:rgb(116, 11, 102);
+    color:white;
+    margin: 0px;
+    font-family: "Baskervville SC", serif;
+}
+header{
+    border-bottom: solid 3px black;
+    padding: 20px;
+    font-size: 30px;
+}
+section{
+    display: flex;
+    background: rgb(150, 49, 150);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    justify-content: center;
+    font-size: 15px;
+}
+.titulo-video{
+    margin-right: 5%;
+}
+
+
